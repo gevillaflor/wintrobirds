@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">7151da49f4895210844d65c3e8bb1e51</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">3551da4904895210a41736b3cc741e48</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-03 06:50:35</sys_created_on>
+        <sys_id>b951da4999895210a7f602c4d7895c48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_b951da4999895210a7f602c4d7895c48</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-03 06:50:35</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

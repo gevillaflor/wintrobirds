@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Wintro 0 1727336184001</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1533729_wintro_0_1727336184001</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:36:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21b81272837812100b92f6d6feaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wintro 0 1727336184001</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>sys_app_module_21b81272837812100b92f6d6feaad334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:36:25</sys_updated_on>
+        <timeline_page/>
+        <title>Wintro 0 1727336184001</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</application>
+        <file_path/>
+        <instance_id>b7193899ff8b4a1cc812f8e4fc4fd9c2</instance_id>
+        <instance_name>dev278301</instance_name>
+        <name>sys_app_module_21b81272837812100b92f6d6feaad334</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Wintro 0 1727336184001</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1533729_wintro_0_1727336184001</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-26 07:36:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>21b81272837812100b92f6d6feaad334</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Wintro 0 1727336184001</sys_name><sys_overrides/><sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package><sys_policy/><sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope><sys_update_name>sys_app_module_21b81272837812100b92f6d6feaad334</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-26 07:36:25</sys_updated_on><timeline_page/><title>Wintro 0 1727336184001</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1971645479</payload_hash>
+        <record_name>Wintro 0 1727336184001</record_name>
+        <reverted_from/>
+        <source>85d08aba83b412100b92f6d6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:36:25</sys_created_on>
+        <sys_id>e5b81272837812100b92f6d6feaad336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d427fe30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:36:25</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e9b812725f7812106489a64f8efd9b35</update_guid>
+        <update_guid_history>e9b812725f7812106489a64f8efd9b35:-1971645479</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Wintro 0 1727336184001">a8f85672837812100b92f6d6feaad32c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:37:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7847f60ee1e74993b9f78daceb464091</sys_id>
+        <sys_metadata>21b81272837812100b92f6d6feaad334</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wintro 0 1727336184001</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_scope_delete display_value="">035c9d18bdcf48d88177273d8b992840</sys_scope_delete>
+        <sys_update_name>sys_app_module_21b81272837812100b92f6d6feaad334</sys_update_name>
+        <sys_update_version display_value="sys_app_module_21b81272837812100b92f6d6feaad334">e5b81272837812100b92f6d6feaad336</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:37:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

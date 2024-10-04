@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">ade08eba83b412100b92f6d6feaad373</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1533729_wintro_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 05:52:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6de08eba83b412100b92f6d6feaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>par_dashboard_widget_6de08eba83b412100b92f6d6feaad37c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 05:52:23</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</application>
+        <file_path/>
+        <instance_id>b7193899ff8b4a1cc812f8e4fc4fd9c2</instance_id>
+        <instance_name>dev278301</instance_name>
+        <name>par_dashboard_widget_6de08eba83b412100b92f6d6feaad37c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">ade08eba83b412100b92f6d6feaad373</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1533729_wintro_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-26 05:52:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6de08eba83b412100b92f6d6feaad37c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package><sys_policy/><sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope><sys_update_name>par_dashboard_widget_6de08eba83b412100b92f6d6feaad37c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-26 05:52:23</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>488188731</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>85d08aba83b412100b92f6d6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 05:52:23</sys_created_on>
+        <sys_id>a5e08eba83b412100b92f6d6feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922ce340940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 05:52:23</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>a9e08eba15b412104445b1eb8e35ce7d</update_guid>
+        <update_guid_history>a9e08eba15b412104445b1eb8e35ce7d:488188731</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2de08eba83b412100b92f6d6feaad38c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 05:52:23</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>2f9f761a3abf43649818c67e3ac6dd10</sys_id>
+        <sys_metadata>6de08eba83b412100b92f6d6feaad37c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_scope_delete display_value="">035c9d18bdcf48d88177273d8b992840</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6de08eba83b412100b92f6d6feaad37c</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6de08eba83b412100b92f6d6feaad37c">a5e08eba83b412100b92f6d6feaad37e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 05:52:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

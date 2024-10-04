@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">bd51da4949895210e9b90f5605c33832</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">7951da498289521030b6c0b87164422e</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-03 06:50:36</sys_created_on>
+        <sys_id>b151da4906895210fdca8b53b9485c2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_b151da4906895210fdca8b53b9485c2f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-03 06:50:36</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">e6ee8632d5381210b6253154a07391cc</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-26 06:53:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2eee8632c63812106f92a54a21bd2bcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>m2m_app_config_theme_2eee8632c63812106f92a54a21bd2bcd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-26 06:53:39</sys_updated_on>
+        <theme display_value="Light Theme">aaee8632f2381210651ed6017a2cb7cc</theme>
+        <ux_app_configuration display_value="">eeee8632833812100b92f6d6feaad347</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</application>
+        <file_path/>
+        <instance_id>b7193899ff8b4a1cc812f8e4fc4fd9c2</instance_id>
+        <instance_name>dev278301</instance_name>
+        <name>m2m_app_config_theme_2eee8632c63812106f92a54a21bd2bcd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">e6ee8632d5381210b6253154a07391cc</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-09-26 06:53:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2eee8632c63812106f92a54a21bd2bcd</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package><sys_policy/><sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope><sys_update_name>m2m_app_config_theme_2eee8632c63812106f92a54a21bd2bcd</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-09-26 06:53:39</sys_updated_on><theme display_value="Light Theme">aaee8632f2381210651ed6017a2cb7cc</theme><ux_app_configuration display_value="">eeee8632833812100b92f6d6feaad347</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1284138792</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:10:32</sys_created_on>
+        <sys_id>56c216f6833812100b92f6d6feaad3c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d2acd1d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:10:32</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>16c216f6653812108ac91b3c0c0693c8</update_guid>
+        <update_guid_history>16c216f6653812108ac91b3c0c0693c8:1284138792</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9ec216f6833812100b92f6d6feaad3c8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-26 07:10:32</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>0a71894cc7894ee68e8d0df09172e6c1</sys_id>
+        <sys_metadata>2eee8632c63812106f92a54a21bd2bcd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_scope_delete display_value="">035c9d18bdcf48d88177273d8b992840</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_2eee8632c63812106f92a54a21bd2bcd</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_2eee8632c63812106f92a54a21bd2bcd">56c216f6833812100b92f6d6feaad3c8</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:10:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

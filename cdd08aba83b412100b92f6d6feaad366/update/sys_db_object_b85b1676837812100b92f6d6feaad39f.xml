@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Employee</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1533729_wintro_0_employee</name>
+        <number_ref display_value="EMPL">815b5676837812100b92f6d6feaad37f</number_ref>
+        <provider_class/>
+        <read_access>false</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>john.doe</sys_created_by>
+        <sys_created_on>2024-09-26 07:47:51</sys_created_on>
+        <sys_id>b85b1676837812100b92f6d6feaad39f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Employee</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>sys_db_object_b85b1676837812100b92f6d6feaad39f</sys_update_name>
+        <sys_updated_by>john.doe</sys_updated_by>
+        <sys_updated_on>2024-09-26 10:06:53</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>false</ws_access>
+    </sys_db_object>
+</record_update>

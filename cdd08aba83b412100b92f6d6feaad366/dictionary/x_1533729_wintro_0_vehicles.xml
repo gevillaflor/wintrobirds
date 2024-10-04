@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fd5bd676837812100b92f6d6feaad31f" label="Vehicles" max_length="40" name="x_1533729_wintro_0_vehicles" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Plate No." max_length="40" name="plate_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Driver" max_length="40" name="driver" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Car Model" max_length="40" name="car_model" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Driver\'s Contact" max_length="40" name="driver_s_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Seat Capacity" max_length="40" name="seat_capacity" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

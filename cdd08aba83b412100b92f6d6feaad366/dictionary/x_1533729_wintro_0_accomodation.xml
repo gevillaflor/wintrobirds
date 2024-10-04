@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b88952b2837812100b92f6d6feaad375" label="Accommodation" max_length="40" name="x_1533729_wintro_0_accomodation" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Hotel Address" max_length="40" name="hotel_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hotel Name" max_length="40" name="hotel_name" type="string"/>
+    </element>
+</database>

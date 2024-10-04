@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_floor_no_</field>
+        <name>Floor No.</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:03:10</sys_created_on>
+        <sys_id>9211de36833812100b92f6d6feaad3aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Floor No.</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="meeting_room Data Mapping_etl_ihub">5a115636833812100b92f6d6feaad35f</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_1533729_wintro_0_ihub_import_b1111636833812100b92f6d6feaad37a">9a11de36833812100b92f6d6feaad37c</sys_rte_eb_entity>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_9211de36833812100b92f6d6feaad3aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:03:10</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</application>
+        <file_path/>
+        <instance_id>b7193899ff8b4a1cc812f8e4fc4fd9c2</instance_id>
+        <instance_name>dev278301</instance_name>
+        <name>sys_rte_eb_etl_field_9211de36833812100b92f6d6feaad3aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>u_floor_no_</field><name>Floor No.</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-26 07:03:10</sys_created_on><sys_id>9211de36833812100b92f6d6feaad3aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Floor No.</sys_name><sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package><sys_policy/><sys_rte_eb_definition display_value="meeting_room Data Mapping_etl_ihub">5a115636833812100b92f6d6feaad35f</sys_rte_eb_definition><sys_rte_eb_entity display_value="Source_x_1533729_wintro_0_ihub_import_b1111636833812100b92f6d6feaad37a">9a11de36833812100b92f6d6feaad37c</sys_rte_eb_entity><sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope><sys_update_name>sys_rte_eb_etl_field_9211de36833812100b92f6d6feaad3aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-26 07:03:10</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>-967401631</payload_hash>
+        <record_name>Floor No.</record_name>
+        <reverted_from/>
+        <source>85d08aba83b412100b92f6d6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:03:10</sys_created_on>
+        <sys_id>de11de36833812100b92f6d6feaad3ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d240edb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:03:10</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>d211de36df381210cceed7e30c0d59ab</update_guid>
+        <update_guid_history>d211de36df381210cceed7e30c0d59ab:-967401631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:12:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>4c2368fd805548298ec1201994897151</sys_id>
+        <sys_metadata>9211de36833812100b92f6d6feaad3aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Floor No.</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_scope_delete display_value="">035c9d18bdcf48d88177273d8b992840</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_9211de36833812100b92f6d6feaad3aa</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_9211de36833812100b92f6d6feaad3aa">de11de36833812100b92f6d6feaad3ab</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:12:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

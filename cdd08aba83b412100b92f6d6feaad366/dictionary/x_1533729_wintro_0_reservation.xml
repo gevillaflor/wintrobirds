@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e10122be837812100b92f6d6feaad3a3" label="Reservation" max_length="40" name="x_1533729_wintro_0_reservation" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="MTGRM" label="Type of Reservation" max_length="10" name="type_of_reservation" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Vehicles" sequence="1" value="VEHICLE"/>
+                <element inactive_on_update="false" label="Accommodation" sequence="2" value="ACCOMM"/>
+                <element inactive_on_update="false" label="Meeting Room" sequence="0" value="MTGRM"/>
+                <element inactive_on_update="false" label="Restaurant" sequence="3" value="RESTO"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Reservation Date" max_length="40" name="reservation_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Transaction ID" max_length="40" name="transaction_id" type="string"/>
+        <element label="Meeting Number" max_length="32" name="meeting_number" reference="x_1533729_wintro_0_meeting_room" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element label="Vehicle Number" max_length="32" name="vehicle_number" reference="x_1533729_wintro_0_vehicles" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Plate No" max_length="40" name="plate_no" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="plate_no" dependent_on_field="plate_no" label="Car Model" max_length="20" name="car_model" type="string" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="plate_no" dependent_on_field="plate_no" label="Driver" max_length="40" name="driver" type="string" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Denied" sequence="2" value="denied"/>
+                <element inactive_on_update="false" label="Approved" sequence="3" value="approved"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Driver’s Contact" max_length="11" name="driver_s_contact" type="string" use_dependent_field="true"/>
+        <element label="Reservation Time" max_length="40" name="reservation_time" type="glide_time"/>
+        <element label="Capacity" max_length="40" name="capacity" type="integer"/>
+        <index name="index">
+            <element name="meeting_number"/>
+        </index>
+        <index name="index2">
+            <element name="vehicle_number"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b85b1676837812100b92f6d6feaad39f" label="Employee" max_length="40" name="x_1533729_wintro_0_employee" type="collection">
+        <element label="Manager ID" max_length="10" name="manager_id" type="string"/>
+        <element label="Employee ID" max_length="10" name="employee_id" type="string"/>
+        <element label="Forename" max_length="40" name="forename" type="string"/>
+        <element label="User" mandatory="true" max_length="32" name="user_id" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element choice="3" default="0" label="Dept Manager" max_length="40" name="dept_manager" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element choice="3" default="M" label="Gender" max_length="1" name="gender" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="M"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="F"/>
+            </choice>
+        </element>
+        <element label="Surname" max_length="40" name="surname" type="string"/>
+        <index name="index">
+            <element name="user_id"/>
+        </index>
+    </element>
+</database>

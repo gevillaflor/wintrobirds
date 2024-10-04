@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_concat_operation">
+    <sys_rte_eb_concat_operation action="DELETE">
+        <conditional_fields/>
+        <conditional_script><![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i < batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]></conditional_script>
+        <is_conditional>false</is_conditional>
+        <joining_string/>
+        <name>CONCAT_sn_ihub_target_capacity</name>
+        <operation_group/>
+        <order>9999</order>
+        <source_sys_rte_eb_field/>
+        <source_sys_rte_eb_fields>02215276833812100b92f6d6feaad3dc,c2215276833812100b92f6d6feaad3de</source_sys_rte_eb_fields>
+        <sys_class_name>sys_rte_eb_concat_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:03:25</sys_created_on>
+        <sys_id>4e219276833812100b92f6d6feaad304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CONCAT_sn_ihub_target_capacity</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="meeting_room Data Mapping_etl_ihub">5a115636833812100b92f6d6feaad35f</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1533729_wintro_0_meeting_room">86215276833812100b92f6d6feaad3d5</sys_rte_eb_entity>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>sys_rte_eb_concat_operation_4e219276833812100b92f6d6feaad304</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:03:25</sys_updated_on>
+        <target_sys_rte_eb_field display_value="sn_ihub_target_capacity">02215276833812100b92f6d6feaad3dc</target_sys_rte_eb_field>
+        <target_sys_rte_eb_fields/>
+        <type display_value="Concatenation">4e38102a73b333002b6265a751ab9e1f</type>
+    </sys_rte_eb_concat_operation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</application>
+        <file_path/>
+        <instance_id>b7193899ff8b4a1cc812f8e4fc4fd9c2</instance_id>
+        <instance_name>dev278301</instance_name>
+        <name>sys_rte_eb_concat_operation_4e219276833812100b92f6d6feaad304</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_concat_operation"&gt;&lt;sys_rte_eb_concat_operation action="INSERT_OR_UPDATE"&gt;&lt;conditional_fields/&gt;&lt;conditional_script&gt;&lt;![CDATA[/* Example Script
+(function(batch, output) {
+    for (var i = 0; i &lt; batch.length; i++) {
+        
+        // step1: access the input variables
+        var a = batch[i].input;
+
+        // step2: your script code goes here
+        // based on the input variables assign variable 'b' to true or false.
+        var b = true; // or false;
+
+        // step3: set the output for each element
+        output[i] = b;
+    }
+})(batch, output);
+*/
+(function(batch, output) {
+    // add your code here
+    
+})(batch, output);]]&gt;&lt;/conditional_script&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;joining_string/&gt;&lt;name&gt;CONCAT_sn_ihub_target_capacity&lt;/name&gt;&lt;operation_group/&gt;&lt;order&gt;9999&lt;/order&gt;&lt;source_sys_rte_eb_field/&gt;&lt;source_sys_rte_eb_fields&gt;02215276833812100b92f6d6feaad3dc,c2215276833812100b92f6d6feaad3de&lt;/source_sys_rte_eb_fields&gt;&lt;sys_class_name&gt;sys_rte_eb_concat_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-26 07:03:25&lt;/sys_created_on&gt;&lt;sys_id&gt;4e219276833812100b92f6d6feaad304&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;CONCAT_sn_ihub_target_capacity&lt;/sys_name&gt;&lt;sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0"&gt;cdd08aba83b412100b92f6d6feaad366&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_rte_eb_definition display_value="meeting_room Data Mapping_etl_ihub"&gt;5a115636833812100b92f6d6feaad35f&lt;/sys_rte_eb_definition&gt;&lt;sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1533729_wintro_0_meeting_room"&gt;86215276833812100b92f6d6feaad3d5&lt;/sys_rte_eb_entity&gt;&lt;sys_scope display_value="Wintrobirds Reservation System"&gt;cdd08aba83b412100b92f6d6feaad366&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_concat_operation_4e219276833812100b92f6d6feaad304&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-26 07:03:25&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_field display_value="sn_ihub_target_capacity"&gt;02215276833812100b92f6d6feaad3dc&lt;/target_sys_rte_eb_field&gt;&lt;target_sys_rte_eb_fields/&gt;&lt;type display_value="Concatenation"&gt;4e38102a73b333002b6265a751ab9e1f&lt;/type&gt;&lt;/sys_rte_eb_concat_operation&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2136076634</payload_hash>
+        <record_name>CONCAT_sn_ihub_target_capacity</record_name>
+        <reverted_from/>
+        <source>85d08aba83b412100b92f6d6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:03:25</sys_created_on>
+        <sys_id>ce219276833812100b92f6d6feaad32b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d24491c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:03:25</sys_updated_on>
+        <type>RTE Entity Concatenation Operation</type>
+        <update_guid>c2219276ec381210be562f3d88ba132b</update_guid>
+        <update_guid_history>c2219276ec381210be562f3d88ba132b:-2136076634</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:12:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_concat_operation">sys_rte_eb_concat_operation</sys_db_object>
+        <sys_id>2f148d0cbd93480ba495dd8a7f235059</sys_id>
+        <sys_metadata>4e219276833812100b92f6d6feaad304</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CONCAT_sn_ihub_target_capacity</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_scope_delete display_value="">035c9d18bdcf48d88177273d8b992840</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_concat_operation_4e219276833812100b92f6d6feaad304</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_concat_operation_4e219276833812100b92f6d6feaad304">ce219276833812100b92f6d6feaad32b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:12:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

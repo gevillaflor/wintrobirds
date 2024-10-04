@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 06:44:58</sys_created_on>
+        <sys_id>6becce3e83f412100b92f6d6feaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1533729_wintro_0_meeting_room.x_1533729_wintro_0.meeting_room_user</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_security_acl display_value="x_1533729_wintro_0_meeting_room">e3ec8e3e83f412100b92f6d6feaad3ed</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6becce3e83f412100b92f6d6feaad316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 06:44:58</sys_updated_on>
+        <sys_user_role display_value="x_1533729_wintro_0.meeting_room_user" name="x_1533729_wintro_0.meeting_room_user">5bec863e83f412100b92f6d6feaad3a4</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</application>
+        <file_path/>
+        <instance_id>b7193899ff8b4a1cc812f8e4fc4fd9c2</instance_id>
+        <instance_name>dev278301</instance_name>
+        <name>sys_security_acl_role_6becce3e83f412100b92f6d6feaad316</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-26 06:44:58</sys_created_on><sys_id>6becce3e83f412100b92f6d6feaad316</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1533729_wintro_0_meeting_room.x_1533729_wintro_0.meeting_room_user</sys_name><sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package><sys_policy/><sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope><sys_security_acl display_value="x_1533729_wintro_0_meeting_room">e3ec8e3e83f412100b92f6d6feaad3ed</sys_security_acl><sys_update_name>sys_security_acl_role_6becce3e83f412100b92f6d6feaad316</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-26 06:44:58</sys_updated_on><sys_user_role display_value="x_1533729_wintro_0.meeting_room_user" name="x_1533729_wintro_0.meeting_room_user">5bec863e83f412100b92f6d6feaad3a4</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>999845057</payload_hash>
+        <record_name>x_1533729_wintro_0_meeting_room.x_1533729_wintro_0.meeting_room_user</record_name>
+        <reverted_from/>
+        <source>85d08aba83b412100b92f6d6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 06:44:58</sys_created_on>
+        <sys_id>abecce3e83f412100b92f6d6feaad31a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d1362520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 06:44:58</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>6fecce3eeef41210cb2b8fac36425b19</update_guid>
+        <update_guid_history>6fecce3eeef41210cb2b8fac36425b19:999845057</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1533729_wintro_0_meeting_room.x_1533729_wintro_0.meeting_room_user">1c881a32837812100b92f6d6feaad31c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:35:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>92d5fa772bde43689dc6ddcab8cc9d64</sys_id>
+        <sys_metadata>6becce3e83f412100b92f6d6feaad316</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1533729_wintro_0_meeting_room.x_1533729_wintro_0.meeting_room_user</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_parent display_value="">e3ec8e3e83f412100b92f6d6feaad3ed</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_scope_delete display_value="">035c9d18bdcf48d88177273d8b992840</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_6becce3e83f412100b92f6d6feaad316</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_6becce3e83f412100b92f6d6feaad316">abecce3e83f412100b92f6d6feaad31a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:35:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

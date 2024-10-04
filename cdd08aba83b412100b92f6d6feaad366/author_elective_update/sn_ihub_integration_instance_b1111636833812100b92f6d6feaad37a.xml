@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Data mapping instance for table meeting_room</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>meeting_room Data Mapping</name>
+        <record_id>f5111636833812100b92f6d6feaad37b</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:03:08</sys_created_on>
+        <sys_id>b1111636833812100b92f6d6feaad37a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>meeting_room Data Mapping</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_b1111636833812100b92f6d6feaad37a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:03:08</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</application>
+        <file_path/>
+        <instance_id>b7193899ff8b4a1cc812f8e4fc4fd9c2</instance_id>
+        <instance_name>dev278301</instance_name>
+        <name>sn_ihub_integration_instance_b1111636833812100b92f6d6feaad37a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Data mapping instance for table meeting_room</description><integration_table>sys_data_source</integration_table><integration_type/><internal_name/><name>meeting_room Data Mapping</name><record_id>f5111636833812100b92f6d6feaad37b</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-26 07:03:08</sys_created_on><sys_id>b1111636833812100b92f6d6feaad37a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>meeting_room Data Mapping</sys_name><sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package><sys_policy/><sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope><sys_update_name>sn_ihub_integration_instance_b1111636833812100b92f6d6feaad37a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-26 07:03:08</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1969217562</payload_hash>
+        <record_name>meeting_room Data Mapping</record_name>
+        <reverted_from/>
+        <source>85d08aba83b412100b92f6d6feaad390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:03:08</sys_created_on>
+        <sys_id>31119e36833812100b92f6d6feaad3b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d24062a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:03:08</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>35119e361f381210cfb3472faa1fb8b8</update_guid>
+        <update_guid_history>35119e361f381210cfb3472faa1fb8b8:-1969217562</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="meeting_room Data Mapping">2e23123a833812100b92f6d6feaad325</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:12:11</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>69002394ddaa4d20b555e61b3ccfd040</sys_id>
+        <sys_metadata>b1111636833812100b92f6d6feaad37a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>meeting_room Data Mapping</sys_name>
+        <sys_package display_value="Wintrobirds Reservation System" source="x_1533729_wintro_0">cdd08aba83b412100b92f6d6feaad366</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wintrobirds Reservation System">cdd08aba83b412100b92f6d6feaad366</sys_scope>
+        <sys_scope_delete display_value="">035c9d18bdcf48d88177273d8b992840</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_b1111636833812100b92f6d6feaad37a</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_b1111636833812100b92f6d6feaad37a">31119e36833812100b92f6d6feaad3b9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:12:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
